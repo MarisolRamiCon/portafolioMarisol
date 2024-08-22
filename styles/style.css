@@ -127,7 +127,7 @@ body{
     }
 
     .header_menu{
-        justify-content: center;
+        justify-content: space-around;
     }
     .presentacion{
         flex-direction: column-reverse;
